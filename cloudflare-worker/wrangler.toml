@@ -1,0 +1,6 @@
+name = "danzo-free-fire"
+main = "src/index.js"
+compatibility_date = "2026-11-09"
+
+# Create a D1 database in the Cloudflare dashboard and bind it as "DB".
+# Add the binding in Worker Settings -> Bindings -> D1 database.
